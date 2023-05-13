@@ -1,2 +1,1 @@
-# Omluvenka
-School Homework
+DataBase is only local!
